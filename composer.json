@@ -3,11 +3,11 @@
     "description": "PayPal extension for Yii2 framework",
     "keywords": ["yii2", "paypal", "extension"],
     "type": "yii2-extension",
-	"version": "0.0.1",
+	"version": "1.0.0",
     "license": "BSD",
     "support": {
-        "issues": "https://github.com/RAvenGEr/Yii2-CCValidator/issues",
-        "source": "https://github.com/RAvenGEr/Yii2-CCValidator"
+        "issues": "https://github.com/RAvenGEr/Yii2-PayPal/issues",
+        "source": "https://github.com/RAvenGEr/Yii2-PayPal"
     },
     "authors": [
         {
