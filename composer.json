@@ -1,0 +1,28 @@
+{
+    "name": "dpwlabs/yii2-paypal",
+    "description": "PayPal extension for Yii2 framework",
+    "keywords": ["yii2", "paypal", "extension"],
+    "type": "yii2-extension",
+	"version": "0.0.1",
+    "license": "BSD",
+    "support": {
+        "issues": "https://github.com/RAvenGEr/Yii2-CCValidator/issues",
+        "source": "https://github.com/RAvenGEr/Yii2-CCValidator"
+    },
+    "authors": [
+        {
+            "name": "David Webb",
+            "email": "ravenger@dpwlabs.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "*",
+        "paypal/rest-api-sdk-php": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "dpwlabs\\yiipaypal\\": ""
+        }
+    }
+}
